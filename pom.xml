@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pro.zhantss.lucene</groupId>
 	<artifactId>LuceneTool</artifactId>
-	<version>1.0.7</version>
+	<version>1.0.8</version>
 	<build>
 		<testSourceDirectory>src/test</testSourceDirectory>
 		<plugins>
